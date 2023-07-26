@@ -10,5 +10,6 @@ build run and compare the 3 models: https://colab.research.google.com/drive/1Qgc
 
 
 Part 2
-https://colab.research.google.com/drive/1QgcJcxL0BoZQwWkKv1LNF7nGYrb_RhOH#scrollTo=7XUkIy5VP7tI
+Colab: https://colab.research.google.com/drive/1QgcJcxL0BoZQwWkKv1LNF7nGYrb_RhOH#scrollTo=7XUkIy5VP7tI
+Git : https://github.com/hillahalevi/Ex3--ANN-CNN/blob/main/Ex3.ipynb
  
